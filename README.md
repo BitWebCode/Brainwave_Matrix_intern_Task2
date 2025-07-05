@@ -18,7 +18,7 @@ This is a modern, responsive e-commerce website built with **HTML**, **CSS**, an
 
 ## 📷 Screenshot
 
-![Casmart E-commerce Website Screenshot](./assets/screenshot.png)
+<img width="1920" height="6300" alt="Casmart E-commerce Website Screenshot" src="https://github.com/user-attachments/assets/88e31d2c-b6ae-4568-8bf0-b06a2e71a57f" />
 
 ---
 
